@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.3",
   "win": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.3/OFM-Script-Generator-Setup-1.1.3.exe",
   "mac": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.3/ofm-script-generator-1.1.3-universal-mac.zip",
-  "notes": "Test installation automatique"
+  "notes": "Correctif du demarrage, popup et installation automatique"
 }
