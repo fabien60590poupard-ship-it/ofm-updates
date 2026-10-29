@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "win": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/v1.1.0/OFM-Script-Generator-Setup-1.1.0.exe",
-  "mac": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/v1.1.0/ofm-script-generator-1.1.0-universal-mac.zip",
-  "notes": "Traducteur FR/EN, verrouillage des reglages"
+  "version": "1.1.1",
+  "win": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.1/OFM-Script-Generator-Setup-1.1.1.exe",
+  "mac": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.1/ofm-script-generator-1.1.1-universal-mac.zip",
+  "notes": "Verificateur de mises a jour actif"
 }
