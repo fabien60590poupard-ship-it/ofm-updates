@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "mac": "https://github.com/TON-COMPTE/ofm-updates/releases/download/v1.1.0/OFM-1.1.0-universal-mac.zip",
+  "win": "https://github.com/TON-COMPTE/ofm-updates/releases/download/v1.1.0/OFM-Setup-1.1.0.exe",
+  "notes": "Traducteur FR/EN, verrouillage des réglages"
+}
