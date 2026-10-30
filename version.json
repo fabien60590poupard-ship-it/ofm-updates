@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "win": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.4/OFM-Script-Generator-Setup-1.1.4.exe",
-  "mac": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.4/ofm-script-generator-1.1.4-universal-mac.zip",
-  "notes": "Cle API fournie avec l application"
+  "version": "1.1.5",
+  "win": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.5/OFM-Script-Generator-Setup-1.1.5.exe",
+  "mac": "https://github.com/fabien60590poupard-ship-it/ofm-updates/releases/download/1.1.5/ofm-script-generator-1.1.5-universal-mac.zip",
+  "notes": "Refonte visuelle, page d accueil, signature Venus Agency"
 }
